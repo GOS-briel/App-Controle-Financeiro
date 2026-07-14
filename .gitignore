@@ -1,0 +1,12 @@
+# Ambiente Python
+venv/
+__pycache__/
+*.pyc
+
+# Faturas reais de exemplo (dados sensíveis - CPF, endereço, cartão)
+app/fatura/exemplos/
+*.pdf
+
+# Banco de dados local
+*.db
+*.sqlite3
